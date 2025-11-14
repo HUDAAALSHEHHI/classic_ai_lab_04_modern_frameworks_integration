@@ -1,6 +1,6 @@
 🧠 Overview
 
-This experiment demonstrates how to integrate modern AI frameworks—HuggingFace and LangChain to build a functional question answering pipeline capable of processing contextual information and generating accurate responses. The goal is to illustrate how lightweight pretrained models can be connected with reasoning chains to form a practical inference system suitable for research and educational use cases.
+This experiment demonstrates how to integrate modern AI frameworks HuggingFace and LangChain to build a functional question answering pipeline capable of processing contextual information and generating accurate responses. The goal is to illustrate how lightweight pretrained models can be connected with reasoning chains to form a practical inference system suitable for research and educational use cases.
 
 ✏️ Objective
 
